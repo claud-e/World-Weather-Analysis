@@ -1,3 +1,13 @@
+# Adding config.py file.
+config.py
+
+#Adding additional files
+A6-1-Student_Resources
+A6-2-Student_Resources
+API-practice.ipynb
+Vacation_Search_starter_code.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
